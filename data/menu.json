@@ -1,0 +1,863 @@
+[
+  {
+    "id": "dish-1",
+    "name": "Chilli Gobi",
+    "price": 9.67,
+    "category": "Veg Appetizers",
+    "image": "/menu-optimized/dish-1.webp"
+  },
+  {
+    "id": "dish-2",
+    "name": "Chilli Baby Corn",
+    "price": 10.55,
+    "category": "Veg Appetizers",
+    "image": "/menu-optimized/dish-2.webp"
+  },
+  {
+    "id": "dish-3",
+    "name": "Chilli Paneer",
+    "price": 12.31,
+    "category": "Veg Appetizers",
+    "image": "/menu-optimized/dish-3.webp"
+  },
+  {
+    "id": "dish-4",
+    "name": "Gobi 65",
+    "price": 9.67,
+    "category": "Veg Appetizers",
+    "image": "/menu-optimized/dish-4.webp"
+  },
+  {
+    "id": "dish-5",
+    "name": "Baby Corn 65",
+    "price": 10.55,
+    "category": "Veg Appetizers",
+    "image": "/menu-optimized/dish-5.webp"
+  },
+  {
+    "id": "dish-6",
+    "name": "Paneer 65",
+    "price": 12.31,
+    "category": "Veg Appetizers",
+    "image": "/menu-optimized/dish-6.webp"
+  },
+  {
+    "id": "dish-7",
+    "name": "Pepper Gobi",
+    "price": 9.67,
+    "category": "Veg Appetizers",
+    "image": "/menu-optimized/dish-7.webp"
+  },
+  {
+    "id": "dish-8",
+    "name": "Pepper Baby Corn",
+    "price": 10.55,
+    "category": "Veg Appetizers",
+    "image": "/menu-optimized/dish-8.webp"
+  },
+  {
+    "id": "dish-9",
+    "name": "Pepper Paneer",
+    "price": 12.31,
+    "category": "Veg Appetizers",
+    "image": "/menu-optimized/dish-9.webp"
+  },
+  {
+    "id": "dish-10",
+    "name": "Pachi Karam Gobi",
+    "price": 9.67,
+    "category": "Veg Appetizers",
+    "image": "/menu-optimized/dish-10.webp"
+  },
+  {
+    "id": "dish-11",
+    "name": "Pachi Karam Baby Corn",
+    "price": 10.55,
+    "category": "Veg Appetizers",
+    "image": "/menu-optimized/dish-11.webp"
+  },
+  {
+    "id": "dish-12",
+    "name": "Pachi Karam Paneer",
+    "price": 12.31,
+    "category": "Veg Appetizers",
+    "image": "/menu-optimized/dish-12.webp"
+  },
+  {
+    "id": "dish-13",
+    "name": "Gobi Manchurian",
+    "price": 9.67,
+    "category": "Veg Appetizers",
+    "image": "/menu-optimized/dish-13.webp"
+  },
+  {
+    "id": "dish-14",
+    "name": "Baby Corn Manchurian",
+    "price": 10.55,
+    "category": "Veg Appetizers",
+    "image": "/menu-optimized/dish-14.webp"
+  },
+  {
+    "id": "dish-15",
+    "name": "Paneer Manchurian",
+    "price": 12.31,
+    "category": "Veg Appetizers",
+    "image": "/menu-optimized/dish-15.webp"
+  },
+  {
+    "id": "dish-16",
+    "name": "Gobi 555",
+    "price": 9.67,
+    "category": "Veg Appetizers",
+    "image": "/menu-optimized/dish-4.webp"
+  },
+  {
+    "id": "dish-17",
+    "name": "Baby Corn 555",
+    "price": 10.55,
+    "category": "Veg Appetizers",
+    "image": "/menu-optimized/dish-16.webp"
+  },
+  {
+    "id": "dish-18",
+    "name": "Paneer 555",
+    "price": 12.31,
+    "category": "Veg Appetizers",
+    "image": "/menu-optimized/dish-17.webp"
+  },
+  {
+    "id": "dish-19",
+    "name": "Bhimavaram Pakodi — Gobi",
+    "price": 9.67,
+    "category": "Veg Appetizers",
+    "image": "/menu-optimized/dish-18.webp"
+  },
+  {
+    "id": "dish-20",
+    "name": "Bhimavaram Pakodi — Baby Corn",
+    "price": 10.55,
+    "category": "Veg Appetizers",
+    "image": "/menu-optimized/dish-19.webp"
+  },
+  {
+    "id": "dish-21",
+    "name": "Crispy Corn",
+    "price": 10.55,
+    "category": "Veg Appetizers",
+    "image": "/menu-optimized/dish-20.webp"
+  },
+  {
+    "id": "dish-22",
+    "name": "Makka Garelu",
+    "price": 8.79,
+    "category": "Veg Appetizers",
+    "image": "/menu-optimized/dish-21.webp"
+  },
+  {
+    "id": "dish-23",
+    "name": "Paneer Bullets",
+    "price": 12.31,
+    "category": "Veg Appetizers",
+    "image": "/menu-optimized/dish-22.webp"
+  },
+  {
+    "id": "dish-24",
+    "name": "Onion Pakoda",
+    "price": 8.79,
+    "category": "Veg Appetizers",
+    "image": "/menu-optimized/dish-23.webp"
+  },
+  {
+    "id": "dish-25",
+    "name": "Veg Momos — Big Boss",
+    "price": 12.31,
+    "category": "Veg Appetizers",
+    "image": "/menu-optimized/dish-24.webp"
+  },
+  {
+    "id": "dish-26",
+    "name": "Veg Momos — Pachi Karam",
+    "price": 12.31,
+    "category": "Veg Appetizers",
+    "image": "/menu-optimized/dish-25.webp"
+  },
+  {
+    "id": "dish-27",
+    "name": "Mushroom Mania",
+    "price": 12.31,
+    "category": "Veg Appetizers",
+    "image": "/menu-optimized/dish-26.webp"
+  },
+  {
+    "id": "dish-28",
+    "name": "Chilli Chicken",
+    "price": 11.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-27.webp"
+  },
+  {
+    "id": "dish-29",
+    "name": "Chilli Fish",
+    "price": 13.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-28.webp"
+  },
+  {
+    "id": "dish-30",
+    "name": "Chilli Shrimp",
+    "price": 14.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-29.webp"
+  },
+  {
+    "id": "dish-31",
+    "name": "Chicken 65",
+    "price": 11.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-30.webp"
+  },
+  {
+    "id": "dish-32",
+    "name": "Fish 65",
+    "price": 13.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-31.webp"
+  },
+  {
+    "id": "dish-33",
+    "name": "Shrimp 65",
+    "price": 14.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-32.webp"
+  },
+  {
+    "id": "dish-34",
+    "name": "Pachi Karam Chicken",
+    "price": 11.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-33.webp"
+  },
+  {
+    "id": "dish-35",
+    "name": "Pachi Karam Fish",
+    "price": 13.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-34.webp"
+  },
+  {
+    "id": "dish-36",
+    "name": "Pachi Karam Shrimp",
+    "price": 14.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-35.webp"
+  },
+  {
+    "id": "dish-37",
+    "name": "Chicken Manchurian",
+    "price": 11.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-36.webp"
+  },
+  {
+    "id": "dish-38",
+    "name": "Fish Manchurian",
+    "price": 13.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-37.webp"
+  },
+  {
+    "id": "dish-39",
+    "name": "Shrimp Manchurian",
+    "price": 14.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-38.webp"
+  },
+  {
+    "id": "dish-40",
+    "name": "Chicken 555",
+    "price": 11.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-39.webp"
+  },
+  {
+    "id": "dish-41",
+    "name": "Fish 555",
+    "price": 13.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-40.webp"
+  },
+  {
+    "id": "dish-42",
+    "name": "Shrimp 555",
+    "price": 14.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-41.webp"
+  },
+  {
+    "id": "dish-43",
+    "name": "Telangana Ghee Roast — Chicken",
+    "price": 11.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-42.webp"
+  },
+  {
+    "id": "dish-44",
+    "name": "Telangana Ghee Roast — Goat",
+    "price": 14.07,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-43.webp"
+  },
+  {
+    "id": "dish-45",
+    "name": "Telangana Ghee Roast — Shrimp",
+    "price": 14.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-44.webp"
+  },
+  {
+    "id": "dish-46",
+    "name": "Bhimavaram Kaju Pakodi — Chicken",
+    "price": 11.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-45.webp"
+  },
+  {
+    "id": "dish-47",
+    "name": "Bhimavaram Kaju Pakodi — Shrimp",
+    "price": 14.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-46.webp"
+  },
+  {
+    "id": "dish-48",
+    "name": "Chicken Lollipop — Wet",
+    "price": 11.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-47.webp"
+  },
+  {
+    "id": "dish-49",
+    "name": "Chicken Lollipop — Dry",
+    "price": 11.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-48.webp"
+  },
+  {
+    "id": "dish-50",
+    "name": "Tawa Fish",
+    "price": 13.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-49.webp"
+  },
+  {
+    "id": "dish-51",
+    "name": "Chicken Momos — Big Boss",
+    "price": 12.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-50.webp"
+  },
+  {
+    "id": "dish-52",
+    "name": "Chicken Momos — Pachi Karam",
+    "price": 12.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-51.webp"
+  },
+  {
+    "id": "dish-53",
+    "name": "Karivepaku Chicken",
+    "price": 13.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-52.webp"
+  },
+  {
+    "id": "dish-54",
+    "name": "Pitta Mamsam (Quail Fry)",
+    "price": 16.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-53.webp"
+  },
+  {
+    "id": "dish-55",
+    "name": "Nalgonda Mamsam Vepudu",
+    "price": 16.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-54.webp"
+  },
+  {
+    "id": "dish-56",
+    "name": "Vellulli Royyalu",
+    "price": 14.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-55.webp"
+  },
+  {
+    "id": "dish-57",
+    "name": "Pepper Fry — Chicken",
+    "price": 13.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-52.webp"
+  },
+  {
+    "id": "dish-58",
+    "name": "Pepper Fry — Shrimp",
+    "price": 14.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-35.webp"
+  },
+  {
+    "id": "dish-59",
+    "name": "Pepper Fry — Goat",
+    "price": 15.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-43.webp"
+  },
+  {
+    "id": "dish-60",
+    "name": "Big Boss Chicken",
+    "price": 13.99,
+    "category": "Non-Veg Appetizers",
+    "image": "/menu-optimized/dish-56.webp"
+  },
+  {
+    "id": "dish-61",
+    "name": "Chicken Dum Biryani",
+    "price": 15.99,
+    "category": "Biryani & Pulav",
+    "image": "/menu-optimized/dish-57.webp"
+  },
+  {
+    "id": "dish-62",
+    "name": "Nalli Biryani / Pulav",
+    "price": 23.99,
+    "category": "Biryani & Pulav",
+    "image": "/menu-optimized/dish-58.webp"
+  },
+  {
+    "id": "dish-63",
+    "name": "Fry Piece Biryani — Chicken",
+    "price": 15.99,
+    "category": "Biryani & Pulav",
+    "image": "/menu-optimized/dish-59.webp"
+  },
+  {
+    "id": "dish-64",
+    "name": "Fry Piece Biryani — Mutton",
+    "price": 18.99,
+    "category": "Biryani & Pulav",
+    "image": "/menu-optimized/dish-60.webp"
+  },
+  {
+    "id": "dish-65",
+    "name": "Shrimp Biryani",
+    "price": 15.99,
+    "category": "Biryani & Pulav",
+    "image": "/menu-optimized/dish-61.webp"
+  },
+  {
+    "id": "dish-66",
+    "name": "Egg Biryani",
+    "price": 12.99,
+    "category": "Biryani & Pulav",
+    "image": "/menu-optimized/dish-62.webp"
+  },
+  {
+    "id": "dish-67",
+    "name": "Butter Chicken",
+    "price": 16.99,
+    "category": "Classic Curries",
+    "image": "/menu-optimized/dish-63.webp"
+  },
+  {
+    "id": "dish-68",
+    "name": "Chicken Tikka Masala",
+    "price": 16.99,
+    "category": "Classic Curries",
+    "image": "/menu-optimized/dish-64.webp"
+  },
+  {
+    "id": "dish-69",
+    "name": "Paneer Butter Masala",
+    "price": 16.99,
+    "category": "Classic Curries",
+    "image": "/menu-optimized/dish-65.webp"
+  },
+  {
+    "id": "dish-70",
+    "name": "Paneer Tikka Masala",
+    "price": 16.99,
+    "category": "Classic Curries",
+    "image": "/menu-optimized/dish-66.webp"
+  },
+  {
+    "id": "dish-71",
+    "name": "Dal Tadka",
+    "price": 13.99,
+    "category": "Classic Curries",
+    "image": "/menu-optimized/dish-67.webp"
+  },
+  {
+    "id": "dish-72",
+    "name": "Dal Fry",
+    "price": 13.99,
+    "category": "Classic Curries",
+    "image": "/menu-optimized/dish-68.webp"
+  },
+  {
+    "id": "dish-73",
+    "name": "Gutti Vankaya",
+    "price": 16.99,
+    "category": "Vegetarian Curries",
+    "image": "/menu-optimized/dish-69.webp"
+  },
+  {
+    "id": "dish-74",
+    "name": "Moong Dal Tadka",
+    "price": 13.99,
+    "category": "Vegetarian Curries",
+    "image": "/menu-optimized/dish-70.webp"
+  },
+  {
+    "id": "dish-75",
+    "name": "Pachi Pulusu",
+    "price": 10.99,
+    "category": "Vegetarian Curries",
+    "image": "/menu-optimized/dish-71.webp"
+  },
+  {
+    "id": "dish-76",
+    "name": "Dum Aloo",
+    "price": 13.99,
+    "category": "Vegetarian Curries",
+    "image": "/menu-optimized/dish-72.webp"
+  },
+  {
+    "id": "dish-77",
+    "name": "Aloo Gobi",
+    "price": 13.99,
+    "category": "Vegetarian Curries",
+    "image": "/menu-optimized/dish-73.webp"
+  },
+  {
+    "id": "dish-78",
+    "name": "Palak Paneer",
+    "price": 13.99,
+    "category": "Vegetarian Curries",
+    "image": "/menu-optimized/dish-74.webp"
+  },
+  {
+    "id": "dish-79",
+    "name": "Chana Masala",
+    "price": 13.99,
+    "category": "Vegetarian Curries",
+    "image": "/menu-optimized/dish-75.webp"
+  },
+  {
+    "id": "dish-80",
+    "name": "Paneer Tikka Masala",
+    "price": 16.99,
+    "category": "Vegetarian Curries",
+    "image": "/menu-optimized/dish-66.webp"
+  },
+  {
+    "id": "dish-81",
+    "name": "Kaju Paneer",
+    "price": 16.99,
+    "category": "Vegetarian Curries",
+    "image": "/menu-optimized/dish-76.webp"
+  },
+  {
+    "id": "dish-82",
+    "name": "Tomato Curry",
+    "price": 16.99,
+    "category": "Vegetarian Curries",
+    "image": "/menu-optimized/dish-77.webp"
+  },
+  {
+    "id": "dish-83",
+    "name": "Mix Veg Curry",
+    "price": 13.99,
+    "category": "Vegetarian Curries",
+    "image": "/menu-optimized/dish-78.webp"
+  },
+  {
+    "id": "dish-84",
+    "name": "Chicken Tikka",
+    "price": 14.99,
+    "category": "Kababs & Tandoor",
+    "image": "/menu-optimized/dish-79.webp"
+  },
+  {
+    "id": "dish-85",
+    "name": "Malai Chicken",
+    "price": 14.99,
+    "category": "Kababs & Tandoor",
+    "image": "/menu-optimized/dish-80.webp"
+  },
+  {
+    "id": "dish-86",
+    "name": "Haryali Chicken",
+    "price": 14.99,
+    "category": "Kababs & Tandoor",
+    "image": "/menu-optimized/dish-81.webp"
+  },
+  {
+    "id": "dish-87",
+    "name": "Paneer Tikka",
+    "price": 13.99,
+    "category": "Kababs & Tandoor",
+    "image": "/menu-optimized/dish-82.webp"
+  },
+  {
+    "id": "dish-88",
+    "name": "Malai Paneer Kebab",
+    "price": 14.99,
+    "category": "Kababs & Tandoor",
+    "image": "/menu-optimized/dish-83.webp"
+  },
+  {
+    "id": "dish-89",
+    "name": "Hara Bhara Kebab",
+    "price": 12.99,
+    "category": "Kababs & Tandoor",
+    "image": "/menu-optimized/dish-84.webp"
+  },
+  {
+    "id": "dish-90",
+    "name": "Telangana Mixed Grill",
+    "price": 29.99,
+    "category": "Kababs & Tandoor",
+    "image": "/menu-optimized/dish-85.webp"
+  },
+  {
+    "id": "dish-91",
+    "name": "Apricot Delight",
+    "price": 6.99,
+    "category": "Desserts",
+    "image": "/menu-optimized/dish-86.webp"
+  },
+  {
+    "id": "dish-92",
+    "name": "Mango Delight",
+    "price": 6.99,
+    "category": "Desserts",
+    "image": "/menu-optimized/dish-87.webp"
+  },
+  {
+    "id": "dish-93",
+    "name": "Gulab Jamun with Ice Cream",
+    "price": 6.99,
+    "category": "Desserts",
+    "image": "/menu-optimized/dish-88.webp"
+  },
+  {
+    "id": "dish-94",
+    "name": "Rasmalai",
+    "price": 6.99,
+    "category": "Desserts",
+    "image": "/menu-optimized/dish-89.webp"
+  },
+  {
+    "id": "dish-95",
+    "name": "Chicken Mandi — 2 people",
+    "price": 29.99,
+    "category": "Juicy Mandi",
+    "image": "/menu-optimized/dish-90.webp"
+  },
+  {
+    "id": "dish-96",
+    "name": "Chicken Mandi — 4 people",
+    "price": 89.99,
+    "category": "Juicy Mandi",
+    "image": "/menu-optimized/dish-90.webp"
+  },
+  {
+    "id": "dish-97",
+    "name": "Chicken Mandi — 6 people",
+    "price": 119.98,
+    "category": "Juicy Mandi",
+    "image": "/menu-optimized/dish-90.webp"
+  },
+  {
+    "id": "dish-98",
+    "name": "Goat Mandi — 2 people",
+    "price": 39.99,
+    "category": "Juicy Mandi",
+    "image": "/menu-optimized/dish-91.webp"
+  },
+  {
+    "id": "dish-99",
+    "name": "Goat Mandi — 4 people",
+    "price": 126.99,
+    "category": "Juicy Mandi",
+    "image": "/menu-optimized/dish-91.webp"
+  },
+  {
+    "id": "dish-100",
+    "name": "Goat Mandi — 6 people",
+    "price": 149.98,
+    "category": "Juicy Mandi",
+    "image": "/menu-optimized/dish-91.webp"
+  },
+  {
+    "id": "dish-101",
+    "name": "Seafood Mandi — 2 people",
+    "price": 34.99,
+    "category": "Juicy Mandi",
+    "image": "/menu-optimized/dish-92.webp"
+  },
+  {
+    "id": "dish-102",
+    "name": "Seafood Mandi — 4 people",
+    "price": 109.98,
+    "category": "Juicy Mandi",
+    "image": "/menu-optimized/dish-92.webp"
+  },
+  {
+    "id": "dish-103",
+    "name": "Seafood Mandi — 6 people",
+    "price": 133.98,
+    "category": "Juicy Mandi",
+    "image": "/menu-optimized/dish-92.webp"
+  },
+  {
+    "id": "dish-104",
+    "name": "Mixed Mandi — 2 people",
+    "price": 42.99,
+    "category": "Juicy Mandi",
+    "image": "/menu-optimized/dish-93.webp"
+  },
+  {
+    "id": "dish-105",
+    "name": "Mixed Mandi — 4 people",
+    "price": 117.98,
+    "category": "Juicy Mandi",
+    "image": "/menu-optimized/dish-93.webp"
+  },
+  {
+    "id": "dish-106",
+    "name": "Mixed Mandi — 6 people",
+    "price": 157.98,
+    "category": "Juicy Mandi",
+    "image": "/menu-optimized/dish-93.webp"
+  },
+  {
+    "id": "dish-107",
+    "name": "Fried Rice — Veg",
+    "price": 12.99,
+    "category": "Indo-Chinese",
+    "image": "/menu-optimized/dish-94.webp"
+  },
+  {
+    "id": "dish-108",
+    "name": "Fried Rice — Egg",
+    "price": 14.99,
+    "category": "Indo-Chinese",
+    "image": "/menu-optimized/dish-95.webp"
+  },
+  {
+    "id": "dish-109",
+    "name": "Fried Rice — Chicken",
+    "price": 15.99,
+    "category": "Indo-Chinese",
+    "image": "/menu-optimized/dish-96.webp"
+  },
+  {
+    "id": "dish-110",
+    "name": "Fried Rice — Shrimp",
+    "price": 16.99,
+    "category": "Indo-Chinese",
+    "image": "/menu-optimized/dish-97.webp"
+  },
+  {
+    "id": "dish-111",
+    "name": "Noodles — Veg",
+    "price": 12.99,
+    "category": "Indo-Chinese",
+    "image": "/menu-optimized/dish-98.webp"
+  },
+  {
+    "id": "dish-112",
+    "name": "Noodles — Egg",
+    "price": 14.99,
+    "category": "Indo-Chinese",
+    "image": "/menu-optimized/dish-99.webp"
+  },
+  {
+    "id": "dish-113",
+    "name": "Noodles — Chicken",
+    "price": 15.99,
+    "category": "Indo-Chinese",
+    "image": "/menu-optimized/dish-100.webp"
+  },
+  {
+    "id": "dish-114",
+    "name": "Noodles — Shrimp",
+    "price": 16.99,
+    "category": "Indo-Chinese",
+    "image": "/menu-optimized/dish-101.webp"
+  },
+  {
+    "id": "dish-115",
+    "name": "Plain Naan",
+    "price": 4.49,
+    "category": "Breads",
+    "image": "/menu-optimized/dish-102.webp"
+  },
+  {
+    "id": "dish-116",
+    "name": "Butter Naan",
+    "price": 3.49,
+    "category": "Breads",
+    "image": "/menu-optimized/dish-103.webp"
+  },
+  {
+    "id": "dish-117",
+    "name": "Garlic Naan",
+    "price": 3.49,
+    "category": "Breads",
+    "image": "/menu-optimized/dish-104.webp"
+  },
+  {
+    "id": "dish-118",
+    "name": "Tandoori Roti",
+    "price": 3.99,
+    "category": "Breads",
+    "image": "/menu-optimized/dish-105.webp"
+  },
+  {
+    "id": "dish-119",
+    "name": "Aloo Paratha",
+    "price": 3.99,
+    "category": "Breads",
+    "image": "/menu-optimized/dish-106.webp"
+  },
+  {
+    "id": "dish-120",
+    "name": "Lachha Paratha",
+    "price": 3.99,
+    "category": "Breads",
+    "image": "/menu-optimized/dish-107.webp"
+  },
+  {
+    "id": "dish-121",
+    "name": "Peshawari Naan",
+    "price": 4.49,
+    "category": "Breads",
+    "image": "/menu-optimized/dish-108.webp"
+  },
+  {
+    "id": "dish-122",
+    "name": "Afghani Naan",
+    "price": 4.49,
+    "category": "Breads",
+    "image": "/menu-optimized/dish-109.webp"
+  },
+  {
+    "id": "dish-123",
+    "name": "Cheese Naan",
+    "price": 3.99,
+    "category": "Breads",
+    "image": "/menu-optimized/dish-110.webp"
+  }
+]

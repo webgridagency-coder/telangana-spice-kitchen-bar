@@ -1,0 +1,4 @@
+'use client';
+import { usePathname } from 'next/navigation';
+import { useEffect } from 'react';
+export function Motion(){const pathname=usePathname();useEffect(()=>{if(window.matchMedia('(prefers-reduced-motion: reduce)').matches)return;const top=document.querySelectorAll('.hero-copy > *, .route-hero > *, .menu-hero > *');top.forEach((node,index)=>node.animate([{opacity:1,transform:'translateY(14px)'},{opacity:1,transform:'translateY(0)'}],{duration:520,delay:Math.min(index,3)*50,easing:'cubic-bezier(.22,1,.36,1)',fill:'both'}));const sections=document.querySelectorAll('[data-animate]');const observer=new IntersectionObserver(entries=>entries.forEach(entry=>{if(entry.isIntersecting){entry.target.classList.add('in-view');observer.unobserve(entry.target)}}),{threshold:.1,rootMargin:'0px 0px -40px'});sections.forEach(section=>observer.observe(section));return()=>observer.disconnect()},[pathname]);return null}

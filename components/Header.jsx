@@ -1,0 +1,7 @@
+'use client';
+import Link from 'next/link';
+import { usePathname } from 'next/navigation';
+import { useEffect, useState } from 'react';
+const links=[['/','Home'],['/menu','Menu'],['/catering','Catering'],['/about','About'],['/contact','Contact']];
+function CartIcon(){return <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3.8 4.5h2.1l1.6 10.1a2 2 0 0 0 2 1.7h7.9a2 2 0 0 0 1.9-1.5l1.1-6.4H7.1M10 20a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0Zm8 0a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0Z"/></svg>}
+export function Header(){const pathname=usePathname();const[open,setOpen]=useState(false);useEffect(()=>setOpen(false),[pathname]);return <header className="nav-wrap premium-nav"><Link className="brand" href="/" aria-label="Telangana Spice Kitchen & Bar home"><img src="/telagana spice kitchen logo-transparent.png" alt="Telangana Spice Kitchen & Bar"/></Link><nav className={open?'nav-open':''} aria-label="Main navigation">{links.map(([href,label])=><Link key={href} className={pathname===href?'active':''} href={href}>{label}</Link>)}</nav><div className="nav-actions"><Link className="cart-trigger" href="/menu#order" aria-label="Open online order"><span>Order online</span><i className="cart-icon"><CartIcon/></i><small id="cart-count">0</small></Link><button className="menu-toggle" type="button" aria-label={open?'Close menu':'Open menu'} aria-expanded={open} onClick={()=>setOpen(!open)}><i/><i/></button></div></header>}
